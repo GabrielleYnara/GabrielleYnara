@@ -4,10 +4,11 @@
   🔥 I'm a Junior Software Developer eager to learn and have fun coding. <br>
   ✨ Favorite Tech so far: JavaScript, Angular, Typescript, Java ... <br>
   📧 gabrielleynara@ymail.com <br>
-  🎨 Portfolio: <a href="https://gabrielleynara.github.io/portfolio/" target="_blank">https://gabrielleynara.github.io/portfolio/</a>  
-</p>
+  🎨 Portfolio: <a href="https://gabrielleynara.github.io/portfolio/" target="_blank">https://gabrielleynara.github.io/portfolio/</a>  <br><br>
+  💼 🔭 Currently working on <strong>BotaniQ</strong>, a virtual companion for nurturing and managing your garden's growth.<br>
+  <a href="https://github.com/GabrielleYnara/BotaniQ-Frontend">Frontend Repository</a> | <a href="https://github.com/GabrielleYnara/BotaniQ-Backend">Backend Repository</a>
+</p>  
 
-<!--💼 🔭 Building: -->
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleYnara&layout=compact&theme=dark)
 
