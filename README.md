@@ -1,7 +1,7 @@
 <h3 align="center">Hi there, my name is Gabrielle 👋</h3>
 
 <p align="center">
-  🔥 I'm a Software Developer eager to learn and have fun coding. <br>
+  🔥 I'm a Software Development Engineer eager to learn and have fun coding. <br>
   ✨ Favorite Tech so far: JavaScript, Angular, Typescript, Java ... <br>
   📧 gabrielleynara@ymail.com <br>
   🎨 Portfolio: <a href="https://gabrielleynara.github.io/portfolio/" target="_blank">https://gabrielleynara.github.io/portfolio/</a>  <br><br>
